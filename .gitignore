@@ -19,3 +19,7 @@
 
 # environment
 .env
+
+# main binary
+#./go-rest
+#./go-rest.exe
